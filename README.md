@@ -1,2 +1,2 @@
 # car-vis
-Experimental visualizer for seeing the motion of a race car simulation in response to inputs
+Experimental viewer for seeing the motion of a race car simulation in response to inputs
